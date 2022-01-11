@@ -3,7 +3,6 @@
 - 🤔 Most commonly used python 
 - ⚡ Bug producer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zer0e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
