@@ -1,6 +1,6 @@
 
 - 😄 Like to write code
-- 🤔 Most commonly used python 
+- 🤔 Most commonly used java/python/rust 
 - ⚡ Bug producer
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zer0e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
